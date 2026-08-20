@@ -75,5 +75,5 @@ class DeepNN:
         Returns:
             predicted output
         """
-        A, _ = self._forward_propagation(X)
+        A, _ = self.forward_propagation(X)
         return A
