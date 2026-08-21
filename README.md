@@ -1,4 +1,4 @@
-# Deep Learning Models from Scratch
+# Deep Neural Network from Scratch
 
 A clean, modular implementation of Deep Neural Networks entirely from scratch using Python and NumPy. Codebase demonstrates the core mathematical principles behind deep learning, including forward propagation, backpropagation, and gradient descent, without relying on high-level frameworks like **TensorFlow** or **PyTorch**.
 
